@@ -188,8 +188,9 @@ AND percentage_laid_off IS NULL;
 SELECT *
 FROM layoffs_duplicate2;
 
+-- row num now shows an err in line 21, 29, 64 because has the column has been dropped 
 ALTER TABLE layoffs_duplicate2
-DROP COLUMN row_num;
+DROP COLUMN row_num; 
 
 SELECT *
 FROM layoffs_duplicate2;
