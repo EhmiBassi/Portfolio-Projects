@@ -1,0 +1,201 @@
+transaction_id,date,store_location,product_category,product_name,quantity,unit_price,payment_method,customer_age,customer_gender
+1001,2023-01-05,Lagos,Electronics,Smartphone,2,450.00,Credit Card,28,M
+1002,2023-01-07,Abuja,Clothing,T-shirt,5,15.99,Cash,35,F
+1003,2023-01-10,Port Harcourt,Groceries,Rice (5kg),3,12.50,Mobile Payment,42,M
+1004,2023-01-12,Lagos,Beauty,Facial Cream,1,24.99,Credit Card,29,F
+1005,2023-01-15,Uyo,Electronics,Headphones,2,35.75,Debit Card,22,M
+1006,2023-01-18,Abuja,Home Goods,Bedsheet,1,45.00,Cash,40,F
+1007,2023-01-20,Lagos,Electronics,Power Bank,3,25.50,Mobile Payment,31,M
+1008,2023-01-23,Port Harcourt,Clothing,Jeans,2,29.99,Credit Card,26,F
+1009,2023-01-27,Uyo,Groceries,Cooking Oil,4,8.75,Cash,38,F
+1010,2023-01-30,Lagos,Beauty,Shampoo,2,12.50,Debit Card,33,M
+1011,2023-02-03,Abuja,Electronics,Bluetooth Speaker,1,55.00,Credit Card,27,M
+1012,2023-02-07,Port Harcourt,Home Goods,Kitchen Towels,6,3.99,Cash,45,F
+1013,2023-02-10,Lagos,Groceries,Bread,10,2.50,Mobile Payment,30,M
+1014,2023-02-12,Uyo,Clothing,Dress,1,35.00,Credit Card,24,F
+1015,2023-02-15,Abuja,Beauty,Lipstick,2,18.75,Debit Card,29,F
+1016,2023-02-18,Lagos,Electronics,USB Cable,5,5.99,Cash,32,M
+1017,2023-02-21,Port Harcourt,Groceries,Milk,8,1.99,Mobile Payment,40,F
+1018,2023-02-25,Uyo,Home Goods,Cushion,2,15.00,Credit Card,36,F
+1019,2023-02-28,Lagos,Clothing,Socks,10,1.50,Cash,25,M
+1020,2023-03-03,Abuja,Electronics,Tablet,1,299.99,Credit Card,45,M
+1021,2023-03-07,Port Harcourt,Beauty,Face Wash,3,12.99,Debit Card,31,F
+1022,2023-03-10,Lagos,Groceries,Sugar (1kg),5,3.50,Mobile Payment,38,F
+1023,2023-03-13,Uyo,Home Goods,Wall Clock,1,25.00,Cash,42,M
+1024,2023-03-17,Abuja,Clothing,Sweater,2,45.99,Credit Card,27,F
+1025,2023-03-20,Lagos,Electronics,Mouse,3,12.50,Debit Card,33,M
+1026,2023-03-23,Port Harcourt,Groceries,Beans (2kg),4,6.75,Cash,39,F
+1027,2023-03-26,Uyo,Beauty,Body Lotion,2,18.99,Mobile Payment,28,F
+1028,2023-03-29,Lagos,Home Goods,Picture Frame,1,22.50,Credit Card,30,M
+1029,2023-04-02,Abuja,Electronics,Keyboard,1,29.99,Cash,35,M
+1030,2023-04-05,Port Harcourt,Clothing,Cap,3,8.50,Debit Card,24,F
+1031,2023-04-09,Lagos,Groceries,Pasta,6,2.25,Mobile Payment,40,M
+1032,2023-04-12,Uyo,Beauty,Nail Polish,4,4.99,Credit Card,23,F
+1033,2023-04-16,Abuja,Home Goods,Flower Vase,1,32.00,Cash,47,F
+1034,2023-04-19,Lagos,Electronics,Memory Card,2,18.75,Debit Card,29,M
+1035,2023-04-22,Port Harcourt,Groceries,Tomato Paste,8,1.50,Mobile Payment,34,F
+1036,2023-04-25,Uyo,Clothing,Belt,1,15.99,Credit Card,31,M
+1037,2023-04-28,Lagos,Beauty,Perfume,1,65.00,Cash,26,F
+1038,2023-05-02,Abuja,Electronics,Earbuds,2,25.99,Debit Card,30,M
+1039,2023-05-06,Port Harcourt,Home Goods,Towel Set,1,35.00,Credit Card,42,F
+1040,2023-05-09,Lagos,Groceries,Cereal,3,6.99,Mobile Payment,28,M
+1041,2023-05-12,Uyo,Clothing,Shorts,2,12.50,Cash,25,M
+1042,2023-05-15,Abuja,Beauty,Eye Shadow,1,28.99,Credit Card,32,F
+1043,2023-05-18,Lagos,Electronics,Phone Case,3,9.99,Debit Card,27,F
+1044,2023-05-22,Port Harcourt,Groceries,Eggs (crate),2,12.00,Mobile Payment,40,M
+1045,2023-05-25,Uyo,Home Goods,Dinner Plates,6,4.50,Cash,35,F
+1046,2023-05-28,Lagos,Clothing,Scarf,1,18.75,Credit Card,29,F
+1047,2023-06-02,Abuja,Electronics,Wireless Mouse,1,22.99,Debit Card,31,M
+1048,2023-06-05,Port Harcourt,Beauty,Hair Conditioner,2,14.50,Cash,28,F
+1049,2023-06-09,Lagos,Groceries,Vegetable Oil,1,12.99,Mobile Payment,45,F
+1050,2023-06-12,Uyo,Home Goods,Table Mat,4,5.75,Credit Card,33,M
+1051,2023-06-16,Abuja,Clothing,Pajamas,1,32.00,Debit Card,26,F
+1052,2023-06-19,Lagos,Electronics,HDMI Cable,2,8.99,Cash,38,M
+1053,2023-06-22,Port Harcourt,Groceries,Flour (2kg),3,7.50,Mobile Payment,42,F
+1054,2023-06-25,Uyo,Beauty,Face Mask,5,3.99,Credit Card,24,F
+1055,2023-06-28,Lagos,Home Goods,Trash Can,1,18.50,Debit Card,37,M
+1056,2023-07-02,Abuja,Electronics,Smart Watch,1,85.00,Credit Card,30,F
+1057,2023-07-05,Port Harcourt,Clothing,Rain Coat,1,45.99,Cash,40,M
+1058,2023-07-08,Lagos,Groceries,Juice,6,2.99,Mobile Payment,25,F
+1059,2023-07-11,Uyo,Beauty,Makeup Kit,1,55.00,Debit Card,28,F
+1060,2023-07-15,Abuja,Home Goods,Door Mat,2,12.50,Credit Card,41,M
+1061,2023-07-18,Lagos,Electronics,Laptop Cooler,1,28.99,Cash,32,M
+1062,2023-07-21,Port Harcourt,Groceries,Salt (500g),10,0.99,Mobile Payment,39,F
+1063,2023-07-24,Uyo,Clothing,Gloves,2,8.75,Credit Card,27,M
+1064,2023-07-27,Lagos,Beauty,Sunscreen,3,14.99,Debit Card,31,F
+1065,2023-07-30,Abuja,Home Goods,Laundry Basket,1,22.00,Cash,35,F
+1066,2023-08-03,Port Harcourt,Electronics,Web Camera,1,49.99,Credit Card,28,M
+1067,2023-08-06,Lagos,Groceries,Tea Bags (50 pack),2,5.75,Mobile Payment,43,F
+1068,2023-08-09,Uyo,Beauty,Hair Gel,3,6.99,Debit Card,26,M
+1069,2023-08-12,Abuja,Clothing,Tie,1,22.50,Cash,38,M
+1070,2023-08-15,Lagos,Home Goods,Cutlery Set,1,35.00,Credit Card,29,F
+1071,2023-08-19,Port Harcourt,Electronics,Charging Dock,1,24.99,Debit Card,31,M
+1072,2023-08-22,Uyo,Groceries,Coffee,3,8.50,Mobile Payment,45,F
+1073,2023-08-25,Lagos,Beauty,Deodorant,4,4.99,Cash,34,M
+1074,2023-08-29,Abuja,Clothing,Underwear Pack,2,12.99,Credit Card,26,F
+1075,2023-09-01,Port Harcourt,Home Goods,Pillow,2,18.75,Debit Card,40,M
+1076,2023-09-04,Lagos,Electronics,Digital Alarm Clock,1,15.99,Mobile Payment,29,F
+1077,2023-09-07,Uyo,Groceries,Noodles,10,0.90,Cash,25,M
+1078,2023-09-10,Abuja,Beauty,Hand Cream,2,9.99,Credit Card,35,F
+1079,2023-09-14,Lagos,Clothing,Sandals,1,28.50,Debit Card,31,F
+1080,2023-09-18,Port Harcourt,Home Goods,Bathroom Set,1,45.00,Cash,42,M
+1081,2023-09-21,Uyo,Electronics,Electric Iron,1,35.99,Mobile Payment,28,F
+1082,2023-09-24,Lagos,Groceries,Honey (500ml),2,8.75,Credit Card,39,M
+1083,2023-09-28,Abuja,Beauty,Facial Scrub,3,12.99,Debit Card,25,F
+1084,2023-10-01,Port Harcourt,Clothing,Wristwatch,1,65.00,Cash,33,M
+1085,2023-10-05,Lagos,Home Goods,Lamp,1,32.50,Credit Card,30,F
+1086,2023-10-08,Uyo,Electronics,Printer Ink,2,22.99,Mobile Payment,37,M
+1087,2023-10-11,Abuja,Groceries,Soda (6-pack),4,4.99,Debit Card,26,F
+1088,2023-10-15,Lagos,Beauty,Toothpaste,5,2.50,Cash,42,M
+1089,2023-10-18,Port Harcourt,Clothing,Backpack,1,45.00,Credit Card,22,F
+1090,2023-10-22,Uyo,Home Goods,Photo Album,1,18.75,Debit Card,28,M
+1091,2023-10-26,Lagos,Electronics,USB Hub,2,15.99,Mobile Payment,34,F
+1092,2023-10-30,Abuja,Groceries,Biscuits,8,1.25,Cash,45,M
+1093,2023-11-02,Port Harcourt,Beauty,Hair Dye,1,24.99,Credit Card,29,F
+1094,2023-11-06,Uyo,Clothing,Polo Shirt,3,18.50,Debit Card,32,M
+1095,2023-11-09,Lagos,Home Goods,Storage Box,2,12.99,Mobile Payment,40,F
+1096,2023-11-13,Abuja,Electronics,Camera Lens,1,85.00,Cash,27,M
+1097,2023-11-16,Port Harcourt,Groceries,Chocolate,6,2.99,Credit Card,31,F
+1098,2023-11-20,Lagos,Beauty,Shower Gel,3,7.50,Debit Card,38,F
+1099,2023-11-23,Uyo,Clothing,Winter Hat,2,10.99,Mobile Payment,25,M
+1100,2023-11-26,Abuja,Home Goods,Air Freshener,4,3.99,Cash,33,F
+1101,2023-11-30,Lagos,Electronics,Hard Drive,1,79.99,Credit Card,30,M
+1102,2023-12-03,Port Harcourt,Groceries,Sparkling Water,6,1.99,Debit Card,41,F
+1103,2023-12-06,Uyo,Beauty,Body Wash,2,8.50,Mobile Payment,28,F
+1104,2023-12-10,Lagos,Clothing,Wallet,1,24.99,Cash,35,M
+1105,2023-12-13,Abuja,Home Goods,Candle Set,1,18.75,Credit Card,29,F
+1106,2023-12-17,Port Harcourt,Electronics,Portable Speaker,1,49.99,Debit Card,32,M
+1107,2023-12-20,Lagos,Groceries,Christmas Cake,1,35.00,Mobile Payment,40,F
+1108,2023-12-23,Uyo,Beauty,Gift Set,2,39.99,Cash,27,M
+1109,2023-12-26,Abuja,Clothing,Holiday Sweater,1,45.00,Credit Card,34,F
+1110,2023-12-29,Lagos,Home Goods,Decorative Lights,2,22.50,Debit Card,31,M
+1111,2024-01-03,Port Harcourt,Electronics,Gaming Headset,1,65.00,Cash,24,M
+1112,2024-01-07,Uyo,Groceries,Nuts (500g),3,12.99,Mobile Payment,42,F
+1113,2024-01-10,Lagos,Beauty,Anti-aging Cream,1,49.99,Credit Card,38,F
+1114,2024-01-13,Abuja,Clothing,Running Shoes,1,85.00,Debit Card,30,M
+1115,2024-01-16,Port Harcourt,Home Goods,Throw Pillow,2,14.99,Cash,28,F
+1116,2024-01-19,Lagos,Electronics,Fitness Tracker,1,89.99,Credit Card,32,M
+1117,2024-01-22,Uyo,Groceries,Frozen Fish,3,8.75,Mobile Payment,35,F
+1118,2024-01-25,Abuja,Beauty,Moisturizer,2,18.50,Debit Card,27,F
+1119,2024-01-28,Lagos,Clothing,Gym Shorts,2,22.99,Cash,29,M
+1120,2024-01-31,Port Harcourt,Home Goods,Coffee Mug,4,6.50,Credit Card,40,F
+1121,2024-02-03,Uyo,Electronics,Computer Mouse,1,24.99,Debit Card,33,M
+1122,2024-02-06,Lagos,Groceries,Yogurt (Pack of 6),2,9.99,Mobile Payment,26,F
+1123,2024-02-09,Abuja,Beauty,Men's Cologne,1,45.00,Cash,31,M
+1124,2024-02-12,Port Harcourt,Clothing,Baby Clothes,3,12.50,Credit Card,34,F
+1125,2024-02-15,Lagos,Home Goods,Plant Pot,2,15.75,Debit Card,28,F
+1126,2024-02-18,Uyo,Electronics,Electric Kettle,1,35.00,Mobile Payment,42,M
+1127,2024-02-21,Abuja,Groceries,Fresh Vegetables,5,3.99,Cash,37,F
+1128,2024-02-24,Lagos,Beauty,Hair Spray,2,8.99,Credit Card,25,F
+1129,2024-02-27,Port Harcourt,Clothing,Office Shirt,1,32.50,Debit Card,39,M
+1130,2024-03-01,Uyo,Home Goods,Wall Art,1,28.99,Cash,30,F
+1131,2024-03-04,Lagos,Electronics,Router,1,75.00,Mobile Payment,33,M
+1132,2024-03-07,Abuja,Groceries,Canned Beans,8,1.99,Credit Card,40,F
+1133,2024-03-10,Port Harcourt,Beauty,Foot Cream,1,14.50,Debit Card,45,F
+1134,2024-03-13,Lagos,Clothing,Sunglasses,1,55.00,Cash,26,M
+1135,2024-03-16,Uyo,Home Goods,Bath Mat,1,24.99,Credit Card,38,F
+1136,2024-03-19,Abuja,Electronics,DVD Player,1,45.99,Mobile Payment,41,M
+1137,2024-03-22,Lagos,Groceries,Chips,6,2.50,Debit Card,23,F
+1138,2024-03-25,Port Harcourt,Beauty,Acne Treatment,1,17.99,Cash,21,F
+1139,2024-03-28,Uyo,Clothing,Swimwear,1,34.50,Credit Card,27,F
+1140,2024-03-31,Lagos,Home Goods,Knife Set,1,45.00,Debit Card,36,M
+1141,2024-04-03,Abuja,Electronics,Vacuum Cleaner,1,129.99,Mobile Payment,42,F
+1142,2024-04-06,Port Harcourt,Groceries,Soft Drinks,12,1.25,Credit Card,31,M
+1143,2024-04-09,Lagos,Beauty,BB Cream,1,22.50,Cash,29,F
+1144,2024-04-12,Uyo,Clothing,Work Boots,1,79.99,Debit Card,38,M
+1145,2024-04-15,Abuja,Home Goods,Curtains,2,35.99,Credit Card,40,F
+1146,2024-04-18,Lagos,Electronics,Car Charger,2,12.99,Mobile Payment,33,M
+1147,2024-04-21,Port Harcourt,Groceries,Bacon,2,6.50,Cash,36,M
+1148,2024-04-24,Uyo,Beauty,Lip Balm,3,3.99,Credit Card,22,F
+1149,2024-04-27,Lagos,Clothing,Baseball Cap,1,18.75,Debit Card,25,M
+1150,2024-04-30,Abuja,Home Goods,Broom and Dustpan,1,14.99,Mobile Payment,41,F
+1151,2024-05-03,Port Harcourt,Electronics,SD Card,2,22.50,Credit Card,28,M
+1152,2024-05-06,Lagos,Groceries,Oatmeal,3,4.99,Cash,39,F
+1153,2024-05-09,Uyo,Beauty,Eyeliner,1,9.75,Debit Card,24,F
+1154,2024-05-12,Abuja,Clothing,Slippers,2,12.99,Mobile Payment,35,M
+1155,2024-05-15,Lagos,Home Goods,Shower Caddy,1,18.50,Credit Card,27,F
+1156,2024-05-18,Port Harcourt,Electronics,Desk Lamp,1,32.99,Debit Card,31,M
+1157,2024-05-21,Uyo,Groceries,Spices,4,3.75,Cash,44,F
+1158,2024-05-24,Lagos,Beauty,Face Toner,1,15.99,Mobile Payment,26,F
+1159,2024-05-27,Abuja,Clothing,Leather Belt,1,28.50,Credit Card,39,M
+1160,2024-05-30,Port Harcourt,Home Goods,Picture Frames,3,9.99,Debit Card,32,F
+1161,2024-06-02,Lagos,Electronics,Bluetooth Keyboard,1,45.00,Cash,29,M
+1162,2024-06-05,Uyo,Groceries,Frozen Pizza,2,8.99,Mobile Payment,25,M
+1163,2024-06-08,Abuja,Beauty,Hair Masks,2,12.50,Credit Card,31,F
+1164,2024-06-11,Lagos,Clothing,Formal Dress,1,89.99,Debit Card,28,F
+1165,2024-06-14,Port Harcourt,Home Goods,Drawer Organizer,2,14.75,Cash,42,F
+1166,2024-06-17,Uyo,Electronics,Wireless Charger,1,24.99,Credit Card,33,M
+1167,2024-06-20,Lagos,Groceries,Salad Dressing,3,3.99,Mobile Payment,37,F
+1168,2024-06-23,Abuja,Beauty,Mascara,1,12.99,Debit Card,24,F
+1169,2024-06-26,Port Harcourt,Clothing,Athletic Socks,5,3.50,Cash,30,M
+1170,2024-06-29,Lagos,Home Goods,Salad Bowl,1,18.99,Credit Card,35,F
+1171,2024-07-02,Uyo,Electronics,Media Player,1,59.99,Debit Card,27,M
+1172,2024-07-05,Abuja,Groceries,Mineral Water (Pack),4,5.50,Mobile Payment,41,F
+1173,2024-07-08,Lagos,Beauty,Night Cream,1,29.99,Cash,36,F
+1174,2024-07-11,Port Harcourt,Clothing,Neck Tie,1,24.50,Credit Card,38,M
+1175,2024-07-14,Uyo,Home Goods,Dish Rack,1,22.99,Debit Card,32,F
+1176,2024-07-17,Lagos,Electronics,Surge Protector,1,18.75,Mobile Payment,29,M
+1177,2024-07-20,Abuja,Groceries,Peanut Butter,2,6.99,Cash,34,F
+1178,2024-07-23,Port Harcourt,Beauty,Aftershave,1,19.99,Credit Card,40,M
+1179,2024-07-26,Lagos,Clothing,Handbag,1,65.00,Debit Card,27,F
+1180,2024-07-29,Uyo,Home Goods,Ironing Board,1,35.99,Mobile Payment,43,F
+1181,2024-08-01,Abuja,Electronics,Digital Camera,1,199.99,Credit Card,30,M
+1182,2024-08-04,Lagos,Groceries,Granola Bars,4,4.50,Cash,25,F
+1183,2024-08-07,Port Harcourt,Beauty,Teeth Whitening Kit,1,35.00,Debit Card,32,F
+1184,2024-08-10,Uyo,Clothing,Baby Shoes,1,22.99,Mobile Payment,28,F
+1185,2024-08-13,Lagos,Home Goods,Bathroom Scale,1,29.99,Credit Card,37,M
+1186,2024-08-16,Abuja,Electronics,Computer Cable,3,7.99,Debit Card,31,M
+1187,2024-08-19,Port Harcourt,Groceries,Fresh Fruit,5,2.99,Cash,40,F
+1188,2024-08-22,Lagos,Beauty,Nail File Set,1,5.99,Mobile Payment,23,F
+1189,2024-08-25,Uyo,Clothing,School Bag,1,42.50,Credit Card,33,M
+1190,2024-08-28,Abuja,Home Goods,Door Stopper,2,8.75,Debit Card,36,F
+1191,2024-08-31,Lagos,Electronics,External SSD,1,89.99,Cash,29,M
+1192,2024-09-03,Port Harcourt,Groceries,Cake Mix,3,3.99,Credit Card,31,F
+1193,2024-09-06,Uyo,Beauty,Hand Sanitizer,5,2.50,Mobile Payment,27,F
+1194,2024-09-09,Lagos,Clothing,Umbrella,1,18.99,Debit Card,42,M
+1195,2024-09-12,Abuja,Home Goods,Spice Rack,1,24.50,Cash,35,F
+1196,2024-09-15,Port Harcourt,Electronics,Projector,1,149.99,Credit Card,30,M
+1197,2024-09-18,Lagos,Groceries,Breakfast Cereal,2,6.75,Mobile Payment,38,F
+1198,2024-09-21,Uyo,Beauty,Cotton Pads,3,2.99,Debit Card,26,F
+1199,2024-09-24,Abuja,Clothing,Watch Band,1,15.50,Cash,32,M
+1200,2024-09-27,Lagos,Home Goods,Shoe Rack,1,32.99,Credit Card,29,F

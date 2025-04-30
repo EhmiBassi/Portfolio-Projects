@@ -1,0 +1,20 @@
+2025-04-28 21:42:00,397 INFO:\U0001f680 ETL pipeline started.
+2025-04-28 21:43:41,028 INFO:\u2705 Data extracted successfully.
+2025-04-28 21:43:41,105 INFO:\u2705 No missing values detected.
+2025-04-28 21:43:42,532 INFO:\u2705 Data transformed successfully.
+2025-04-28 21:43:47,440 ERROR:\u274c Error loading data: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+
+
+2025-04-28 21:48:20,131 INFO:\U0001f680 ETL pipeline started.
+2025-04-28 21:48:54,075 INFO:\u2705 Data extracted successfully.
+2025-04-28 21:48:54,077 INFO:\u2705 No missing values detected.
+2025-04-28 21:48:54,093 INFO:\u2705 Data transformed successfully.
+2025-04-28 21:48:58,467 INFO:\u2705 Data loaded into table: sales
+2025-04-28 21:48:58,468 INFO:\U0001f389 ETL pipeline completed successfully.
+2025-04-28 22:08:19,134 INFO:\U0001f680 ETL pipeline started.
+2025-04-28 22:08:34,397 INFO:\u2705 Data extracted successfully.
+2025-04-28 22:08:34,486 INFO:\u2705 No missing values detected.
+2025-04-28 22:08:36,044 INFO:\u2705 Data transformed successfully.
+2025-04-28 22:08:44,329 INFO:\u2705 Data loaded into table: retail_sales
+2025-04-28 22:08:44,329 INFO:\U0001f389 ETL pipeline completed successfully.
