@@ -1,0 +1,7 @@
+Hospital Name,Year,Collection Rate,Denial Rate,Avg Satisfaction,Mortality Rate
+"""Eastpoint Community Hospital""",2022,43.16,31.81,6.53,4.74
+"""Eastpoint Community Hospital""",2023,47.46,25.57,7.32,3.99
+"""Greenfield General Hospital""",2022,31.12,48.01,7.66,2.26
+"""Greenfield General Hospital""",2023,26.95,53.33,7.71,3.04
+"""Riverside Medical Centre""",2022,57.4,14.22,5.51,6.1
+"""Riverside Medical Centre""",2023,56.47,14.88,5.55,6.21
